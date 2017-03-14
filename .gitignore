@@ -1,4 +1,2 @@
 *.html
-train.csv
-test.csv
-transformed.csv
+*.csv
