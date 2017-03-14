@@ -19,7 +19,9 @@ Also, it's important that python is executable from your shell. Just type `pytho
 
 This project requires that there is a `train.csv` file (containing the training set data) in the root of the directory with the exact name.
 
-There is script added called `data_transformation.py` which can transform the `train.csv` to something useful.
+There is a script added called `data_transformation.py` which can transform the `train.csv` to something useful.
+
+To transform the `train.csv`, run the following command: `python data_preparation $data_set $output_csv_path`. An example execution for the training-set (which can also be the test-set) can be: `python data_preparation train.csv training-set.csv`
 
 ## How to run Python scrips
 
