@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import sys
-from sklearn.preprocessing import LabelEncoder
+import category_encoder
 
 def is_night(pandas_time):
     if pandas_time.hour < 6 or pandas_time.hour > 18:
@@ -18,10 +18,8 @@ def is_night(pandas_time):
 
 df = pd.read_csv(sys.argv[1])
 
-categories = df['Category'].drop_duplicates().values
-label_encoder = LabelEncoder(categories)
 
-df['Category'] = df.apply(lambda category: label_encoder.transform(category))
+df['Category'] = df['Category'].apply(lambda category: category_encoder.transform_category_to_number(category))
 df['Dates'] = df['Dates'].apply (lambda time: pd.to_datetime(time))
 df['Year'] = df.apply (lambda row: row['Dates'].year, axis=1)
 df['Month'] = df.apply (lambda row: row['Dates'].month, axis=1)
