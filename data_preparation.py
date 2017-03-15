@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import sys
 import category_encoder
+import pd_district_encoder
 
 def is_night(pandas_time):
     if pandas_time.hour < 6 or pandas_time.hour > 18:
@@ -20,6 +21,7 @@ df = pd.read_csv(sys.argv[1])
 
 
 df['Category'] = df['Category'].apply(lambda category: category_encoder.transform_category_to_number(category))
+df['PdDistrict'] = df['PdDistrict'].apply(lambda district: pd_district_encoder.transform_district_to_number(district))
 df['Dates'] = df['Dates'].apply (lambda time: pd.to_datetime(time))
 df['Year'] = df.apply (lambda row: row['Dates'].year, axis=1)
 df['Month'] = df.apply (lambda row: row['Dates'].month, axis=1)
