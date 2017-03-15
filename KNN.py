@@ -1,21 +1,28 @@
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
-from collections import defaultdict
+from sklearn.model_selection import train_test_split
 
-train_df = pd.read_csv('training-set.csv')
-test_df = pd.read_csv('test-set.csv')
+df = pd.read_csv('training-set.csv')
 
-columns = ["X", "Y"]
-labels = train_df["Category"].values
+train_df, test_df = train_test_split(df, test_size = 0.2)
 
-train_features = train_df[list(columns)].values
-test_features = test_df[list(columns)].values
+columns = ['X', 'Y']
+class_to_predict = ['Category']
 
-knn = KNeighborsClassifier(n_neighbors=1)
+train_data = train_df.as_matrix(columns)
+train_targets = train_df.as_matrix(class_to_predict)
 
-knn.fit(train_features, labels)
+test_data = test_df.as_matrix(columns)
+test_targets = test_df.as_matrix(class_to_predict)
 
-knn_score = knn.score(labels, test_features)
+knn = KNeighborsClassifier(n_neighbors=6)
 
-print("{0} -> ET: {1})".format(columns, knn_score))
+print 'before_fit'
+knn.fit(train_data, train_targets.ravel())
+
+print 'after_fit'
+knn_score = knn.score(test_data, test_targets.ravel())
+print 'after_score'
+
+print knn_score
