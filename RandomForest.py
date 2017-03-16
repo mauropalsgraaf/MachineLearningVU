@@ -11,21 +11,20 @@ from sklearn.tree import DecisionTreeClassifier
 train_data = pd.read_csv('training-set.csv')
 test_df = pd.read_csv('test.csv')
 
-
-## Pick 80% of the test set randomly
-train, test = train_test_split(train_data, test_size = 0.2)
-
 ## Select target and train columns
-target = train.iloc[:,:1]
-train = train.iloc[:,1:]
+target = train_data.iloc[:,:1]
+train = train_data.iloc[:,1:]
 
 rf = RandomForestClassifier(n_estimators=100)
-rf.fit(train, target)
+rf.fit(train, target.values.ravel())
+print(rf.score(train,target.values.ravel()))
+
+
 
 ######
-clf = DecisionTreeClassifier(max_depth=None, min_samples_split=2, random_state=0)
-scores = cross_val_score(clf, test.iloc[:,:1], test.iloc[:,1:])
-print(scores.mean())
+#lf = DecisionTreeClassifier(max_depth=None, min_samples_split=2, random_state=0)
+#scores = cross_val_score(clf, test.iloc[:,:1], test.iloc[:,1:])
+#print(scores.mean())
 
 
 #scores = cross_val_score(clf, test, y)
