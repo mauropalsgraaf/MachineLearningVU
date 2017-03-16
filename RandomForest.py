@@ -11,26 +11,17 @@ from sklearn.tree import DecisionTreeClassifier
 train_data = pd.read_csv('training-set.csv')
 test_df = pd.read_csv('test.csv')
 
+
+train_df, test_df = train_test_split(train_data, test_size = 0.05)
+
 ## Select target and train columns
-target = train_data.iloc[:,:1]
-train = train_data.iloc[:,1:]
+target = train_df.iloc[:,:1]
+train = train_df.iloc[:,1:]
+
+
+test_df_target = test_df.iloc[:,:1]
+test_df_set = test_df.iloc[:,1:]
 
 rf = RandomForestClassifier(n_estimators=100)
 rf.fit(train, target.values.ravel())
-print(rf.score(train,target.values.ravel()))
-
-
-
-######
-#lf = DecisionTreeClassifier(max_depth=None, min_samples_split=2, random_state=0)
-#scores = cross_val_score(clf, test.iloc[:,:1], test.iloc[:,1:])
-#print(scores.mean())
-
-
-#scores = cross_val_score(clf, test, y)
-#scores.mean()
-
-
-#clf = ExtraTreesClassifier(n_estimators=10, max_depth=None, min_samples_split=2, random_state=0)
-#scores = cross_val_score(clf, X, y)
-#scores.mean() > 0.999
+print(rf.score(test_df_set,test_df_target.values .ravel()))
