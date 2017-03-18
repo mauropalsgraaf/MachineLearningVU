@@ -7,7 +7,7 @@ df = pd.read_csv('training-set.csv')
 
 train_df, test_df = train_test_split(df, test_size = 0.2)
 
-columns = ['X', 'Y']
+columns = ['PdDistrict']
 class_to_predict = ['Category']
 
 train_data = train_df.as_matrix(columns)
