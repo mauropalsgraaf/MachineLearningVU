@@ -1,0 +1,80 @@
+columns: ['X', 'Y']; number of neighbors 5; score: 0.221852720771
+columns: ['X', 'Y', 'Intersection']; number of neighbors 5; score: 0.217137781017
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 5; score: 0.226430995604
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 5; score: 0.232398697128
+columns: ['X', 'Y']; number of neighbors 10; score: 0.254219529417
+columns: ['X', 'Y', 'Intersection']; number of neighbors 10; score: 0.250301801699
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 10; score: 0.257112270232
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 10; score: 0.256656720497
+columns: ['X', 'Y']; number of neighbors 15; score: 0.261736100039
+columns: ['X', 'Y', 'Intersection']; number of neighbors 15; score: 0.261736100039
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 15; score: 0.26556271781
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 15; score: 0.266337152359
+columns: ['X', 'Y']; number of neighbors 20; score: 0.264697173314
+columns: ['X', 'Y', 'Intersection']; number of neighbors 20; score: 0.265904380111
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 20; score: 0.271963191581
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 20; score: 0.27030043505
+columns: ['X', 'Y']; number of neighbors 25; score: 0.270482654944
+columns: ['X', 'Y', 'Intersection']; number of neighbors 25; score: 0.271257089493
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 25; score: 0.273808168007
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 25; score: 0.27378539052
+columns: ['X', 'Y']; number of neighbors 30; score: 0.272077079015
+columns: ['X', 'Y', 'Intersection']; number of neighbors 30; score: 0.274354827688
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 30; score: 0.275562034485
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 30; score: 0.272350408856
+columns: ['X', 'Y']; number of neighbors 35; score: 0.273056510945
+columns: ['X', 'Y', 'Intersection']; number of neighbors 35; score: 0.277156458556
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 35; score: 0.277953670592
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 35; score: 0.273375395759
+columns: ['X', 'Y']; number of neighbors 40; score: 0.272395963829
+columns: ['X', 'Y', 'Intersection']; number of neighbors 40; score: 0.277520898344
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 40; score: 0.277657563264
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 40; score: 0.273420950732
+columns: ['X', 'Y']; number of neighbors 45; score: 0.275425369565
+columns: ['X', 'Y', 'Intersection']; number of neighbors 45; score: 0.277657563264
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 45; score: 0.277589230804
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 45; score: 0.275197594697
+columns: ['X', 'Y']; number of neighbors 50; score: 0.276427578981
+columns: ['X', 'Y', 'Intersection']; number of neighbors 50; score: 0.278113112999
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 50; score: 0.27831811038
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 50; score: 0.275015374804
+columns: ['X', 'Y']; number of neighbors 55; score: 0.276040361706
+columns: ['X', 'Y', 'Intersection']; number of neighbors 55; score: 0.278340887866
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 55; score: 0.277042571123
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 55; score: 0.27601758422
+columns: ['X', 'Y']; number of neighbors 60; score: 0.275357037105
+columns: ['X', 'Y', 'Intersection']; number of neighbors 60; score: 0.279798647017
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 60; score: 0.27720201353
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 60; score: 0.275265927158
+columns: ['X', 'Y']; number of neighbors 65; score: 0.276131471653
+columns: ['X', 'Y', 'Intersection']; number of neighbors 65; score: 0.279661982097
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 65; score: 0.278113112999
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 65; score: 0.275858141813
+columns: ['X', 'Y']; number of neighbors 70; score: 0.275493702025
+columns: ['X', 'Y', 'Intersection']; number of neighbors 70; score: 0.280390861672
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 70; score: 0.278477552787
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 70; score: 0.275880919299
+columns: ['X', 'Y']; number of neighbors 75; score: 0.276495911441
+columns: ['X', 'Y', 'Intersection']; number of neighbors 75; score: 0.278773660114
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 75; score: 0.278864770061
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 75; score: 0.277475343371
+columns: ['X', 'Y']; number of neighbors 80; score: 0.27601758422
+columns: ['X', 'Y', 'Intersection']; number of neighbors 80; score: 0.278978657495
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 80; score: 0.278978657495
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 80; score: 0.277179236043
+columns: ['X', 'Y']; number of neighbors 85; score: 0.27720201353
+columns: ['X', 'Y', 'Intersection']; number of neighbors 85; score: 0.279456984716
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 85; score: 0.278568662734
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 85; score: 0.276131471653
+columns: ['X', 'Y']; number of neighbors 90; score: 0.276837573742
+columns: ['X', 'Y', 'Intersection']; number of neighbors 90; score: 0.278910325035
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 90; score: 0.278682550167
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 90; score: 0.277019793636
+columns: ['X', 'Y']; number of neighbors 95; score: 0.277065348609
+columns: ['X', 'Y', 'Intersection']; number of neighbors 95; score: 0.27838644284
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 95; score: 0.277680340751
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 95; score: 0.27594925176
+columns: ['X', 'Y']; number of neighbors 100; score: 0.27608591668
+columns: ['X', 'Y', 'Intersection']; number of neighbors 100; score: 0.278181445459
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 100; score: 0.27824977792
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 100; score: 0.276518688928

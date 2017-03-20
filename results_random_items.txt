@@ -1,0 +1,5 @@
+columns: ['PdDistrict', 'X', 'Y', 'Weekend', 'Year', 'Month', 'Day', 'Hour', 'Night', 'Intersection', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; number of neighbors 50; weights distance; score: 0.254492859258
+columns: ['PdDistrict', 'X', 'Y', 'Weekend', 'Night', 'Intersection', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; number of neighbors 50; weights distance; score: 0.26563105027
+columns: ['PdDistrict', 'X', 'Y', 'Weekend', 'Night', 'Intersection', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; number of neighbors 50; weights distance; score: 0.268045463864
+columns: ['X', 'Y', 'Weekend', 'Night', 'Intersection']; number of neighbors 50; weights distance; score: 0.275835364326
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 50; weights distance; score: 0.280117531832
