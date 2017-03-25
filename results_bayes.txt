@@ -1,0 +1,17 @@
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; score: 0.139384965831
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; score: 0.107835990888
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday', 'Weekend']; score: 0.104214123007
+columns: ['X', 'Y']; score: 0.206605922551
+columns: ['X', 'Y', 'Intersection']; score: 0.152596810934
+columns: ['X', 'Y', 'Night']; score: 0.207949886105
+columns: ['X', 'Y', 'Night', 'Weekend']; score: 0.20840546697
+columns: ['Night', 'Weekend', 'X', 'Y']; score: 0.206218678815
+columns: ['Night', 'Weekend', 'X', 'Y']; score: 0.207061503417
+columns: ['Night', 'Weekend', 'X', 'Y', 'Intersection']; score: 0.112004555809
+columns: ['Night', 'X', 'Y']; score: 0.205580865604
+columns: ['Night', 'Weekend', 'X', 'Y']; score: 0.207630979499
+columns: ['Night', 'Weekend', 'X', 'Y', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; score: 0.0528701594533
+columns: ['Night', 'Weekend', 'X', 'Y']; score: 0.211662870159
+columns: ['Night', 'Weekend', 'X', 'Y', 'Intersection']; score: 0.216059225513
+columns: ['Night', 'Weekend', 'X', 'Y', 'Intersection', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']; score: 0.218291571754
+columns: ['Night', 'Weekend', 'X', 'Y', 'Intersection', 'Year', 'Month', 'Day', 'Hour', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']; score: 0.219293849658
