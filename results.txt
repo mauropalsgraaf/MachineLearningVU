@@ -1,0 +1,63 @@
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 30; weights distance; score: 0.289316628702
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 30; weights distance; score: 0.287038724374
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 35; weights distance; score: 0.291116173121
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 35; weights distance; score: 0.288838268793
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 40; weights distance; score: 0.292505694761
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 40; weights distance; score: 0.290683371298
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 45; weights distance; score: 0.293758542141
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 45; weights distance; score: 0.291138952164
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 50; weights distance; score: 0.295148063781
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 50; weights distance; score: 0.293530751708
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 55; weights distance; score: 0.29569476082
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 55; weights distance; score: 0.29423690205
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 60; weights distance; score: 0.294487471526
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 60; weights distance; score: 0.295375854214
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 65; weights distance; score: 0.296264236902
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 65; weights distance; score: 0.296195899772
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 70; weights distance; score: 0.296833712984
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 70; weights distance; score: 0.296719817768
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 75; weights distance; score: 0.296924829157
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 75; weights distance; score: 0.297107061503
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 80; weights distance; score: 0.29715261959
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 80; weights distance; score: 0.297448747153
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 85; weights distance; score: 0.298792710706
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 85; weights distance; score: 0.298428246014
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 90; weights distance; score: 0.29874715262
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 90; weights distance; score: 0.298656036446
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 95; weights distance; score: 0.29854214123
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 95; weights distance; score: 0.298337129841
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 100; weights distance; score: 0.299521640091
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 100; weights distance; score: 0.298086560364
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 110; weights distance; score: 0.30410022779
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 110; weights distance; score: 0.303280182232
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 120; weights distance; score: 0.30416856492
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 120; weights distance; score: 0.303940774487
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 130; weights distance; score: 0.304510250569
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 130; weights distance; score: 0.303895216401
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 140; weights distance; score: 0.305079726651
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 140; weights distance; score: 0.304077448747
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 150; weights distance; score: 0.305740318907
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 150; weights distance; score: 0.304031890661
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 160; weights distance; score: 0.305398633257
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 160; weights distance; score: 0.303576309795
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 170; weights distance; score: 0.304829157175
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 170; weights distance; score: 0.303849658314
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 180; weights distance; score: 0.305102505695
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 180; weights distance; score: 0.304191343964
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 190; weights distance; score: 0.30562642369
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 190; weights distance; score: 0.304555808656
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 200; weights distance; score: 0.305444191344
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; number of neighbors 200; weights distance; score: 0.304692482916
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 250; weights distance; score: 0.304328018223
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 300; weights distance; score: 0.304555808656
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 350; weights distance; score: 0.304943052392
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 400; weights distance; score: 0.305353075171
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 450; weights distance; score: 0.305330296128
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 500; weights distance; score: 0.305375854214
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 550; weights distance; score: 0.305649202733
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 600; weights distance; score: 0.306287015945
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 700; weights distance; score: 0.303667425968
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 800; weights distance; score: 0.3030523918
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 900; weights distance; score: 0.304009111617
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 1000; weights distance; score: 0.303781321185
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 1100; weights distance; score: 0.303986332574

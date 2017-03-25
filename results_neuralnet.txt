@@ -1,0 +1,112 @@
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 2; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 3; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 4; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 5; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 8; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 1; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 3; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 4; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 5; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 6; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 8; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 2; hidden_nodes_snd 9; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 3; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 4; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 5; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 7; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 8; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 3; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 2; score: 0.197403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 3; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 4; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 5; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 8; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 4; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 3; score: 0.197972665148
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 4; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 5; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 7; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 8; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 5; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 1; score: 0.195444191344
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 3; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 4; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 5; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 8; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 6; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 1; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 3; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 4; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 5; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 8; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 7; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 1; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 3; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 4; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 5; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 7; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 8; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 8; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 1; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 2; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 3; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 4; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 5; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 6; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 7; score: 0.199407744875
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 8; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hidden_nodes_fst 9; hidden_nodes_snd 9; score: 0.201366742597
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 1; score: 0.231412300683
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 2; score: 0.234851936219
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 3; score: 0.237403189066
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 4; score: 0.241275626424
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 5; score: 0.238132118451
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 6; score: 0.240364464692
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 7; score: 0.236560364465
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 8; score: 0.234419134396
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 9; score: 0.234282460137
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 10; score: 0.231913439636
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 11; score: 0.233143507973
+columns: ['X', 'Y']; hn_fst 5; hn_snd 5; random_state 6; score: 0.237995444191
+columns: ['X', 'Y', 'Intersection']; hn_fst 5; hn_snd 5; random_state 6; score: 0.226674259681
+columns: ['X', 'Y', 'Intersection', 'Night']; hn_fst 5; hn_snd 5; random_state 6; score: 0.228883826879
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']; hn_fst 5; hn_snd 5; random_state 6; score: 0.221958997722
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend']; hn_fst 5; hn_snd 5; random_state 6; score: 0.227904328018
+columns: ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; score: 0.240569476082
+columns: ['X', 'Y']; hn_fst 5; hn_snd 5; random_state 6; score: 0.234350797267
+columns: ['X', 'Y', 'Night']; hn_fst 5; hn_snd 5; random_state 6; score: 0.234464692483
+columns: ['X', 'Y', 'Night', 'Weekend']; hn_fst 5; hn_snd 5; random_state 6; score: 0.231002277904
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday']; hn_fst 5; hn_snd 5; random_state 6; score: 0.232369020501
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday']; hn_fst 5; hn_snd 5; random_state 6; score: 0.233257403189
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; score: 0.197425968109
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.1; score: 0.218724373576
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.01; score: 0.220410022779
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.001; score: 0.223826879271
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.0001; score: 0.223644646925
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 1e-05; score: 0.223507972665
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 1e-06; score: 0.223485193622
+columns: ['X', 'Y', 'Night', 'Weekend', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.0001; score: 0.222437357631
+columns: ['X', 'Y', 'Night', 'Intersection']; hn_fst 5; hn_snd 5; random_state 6; alpha 0.0001; score: 0.217858769932

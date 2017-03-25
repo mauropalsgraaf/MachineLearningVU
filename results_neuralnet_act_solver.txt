@@ -1,0 +1,10 @@
+columns: ['X', 'Y', 'Intersection', 'Night']; activation identity; solver adam; score: 0.204328018223
+columns: ['X', 'Y', 'Intersection', 'Night']; activation identity; solver lbfgs; score: 0.198861047836
+columns: ['X', 'Y', 'Intersection', 'Night']; activation identity; solver sgd; score: 0.204328018223
+columns: ['X', 'Y', 'Intersection', 'Night']; activation logistic; solver adam; score: 0.204328018223
+columns: ['X', 'Y', 'Intersection', 'Night']; activation tanh; solver adam; score: 0.194760820046
+columns: ['X', 'Y', 'Intersection', 'Night']; activation tanh; solver lbfgs; score: 0.194760820046
+columns: ['X', 'Y', 'Intersection', 'Night']; activation tanh; solver sgd; score: 0.194760820046
+columns: ['X', 'Y', 'Intersection', 'Night']; activation relu; solver adam; score: 0.200227790433
+columns: ['X', 'Y', 'Intersection', 'Night']; activation relu; solver lbfgs; score: 0.194760820046
+columns: ['X', 'Y', 'Intersection', 'Night']; activation relu; solver sgd; score: 0.194760820046

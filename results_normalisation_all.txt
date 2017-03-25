@@ -1,0 +1,17 @@
+columns: ['X', 'Y']; number of neighbors 30; weights distance; score: 0.269202733485
+columns: ['X', 'Y', 'Intersection']; number of neighbors 30; weights distance; score: 0.270113895216
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 30; weights distance; score: 0.272528473804
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 30; weights distance; score: 0.270546697039
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 30; weights distance; score: 0.289612756264
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend', 'Year', 'Month', 'Day', 'Hour', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; number of neighbors 30; weights distance; score: 0.283348519362
+columns: ['X', 'Y']; number of neighbors 35; weights distance; score: 0.271822323462
+columns: ['X', 'Y', 'Intersection']; number of neighbors 35; weights distance; score: 0.271503416856
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 35; weights distance; score: 0.274191343964
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 35; weights distance; score: 0.27145785877
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 35; weights distance; score: 0.290774487472
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend', 'Year', 'Month', 'Day', 'Hour', 'Friday', 'Monday', 'Saturday', 'Sunday', 'Thursday', 'Tuesday', 'Wednesday']; number of neighbors 35; weights distance; score: 0.285580865604
+columns: ['X', 'Y']; number of neighbors 40; weights distance; score: 0.273895216401
+columns: ['X', 'Y', 'Intersection']; number of neighbors 40; weights distance; score: 0.271822323462
+columns: ['X', 'Y', 'Intersection', 'Night']; number of neighbors 40; weights distance; score: 0.274829157175
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend']; number of neighbors 40; weights distance; score: 0.272027334852
+columns: ['X', 'Y', 'Intersection', 'Night', 'Weekend', 'Year', 'Month', 'Day', 'Hour']; number of neighbors 40; weights distance; score: 0.292824601367
