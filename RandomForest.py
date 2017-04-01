@@ -9,7 +9,6 @@ from sklearn.tree import DecisionTreeClassifier
 
 ## Read Dataframes
 train_data = pd.read_csv('training-set.csv')
-test_df = pd.read_csv('test.csv')
 
 
 train_df, test_df = train_test_split(train_data, test_size = 0.05)

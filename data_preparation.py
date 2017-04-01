@@ -39,9 +39,6 @@ if 'Resolution' in df.columns: # This item is only present in training set
 if 'Descript' in df.columns: # This item is only present in training set
     df = df.drop('Descript', 1)
 
-if 'Id' in df.columns: # This item is only present in testset
-    df = df.drop('Id', 1)
-
 df = df.drop('Dates', 1)
 df = df.drop('DayOfWeek', 1)
 df = df.drop('Address', 1)

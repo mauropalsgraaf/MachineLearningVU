@@ -19,8 +19,6 @@ for number_of_neighbors in [700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1
         train_data = train_df.as_matrix(columns)
         train_targets = train_df.as_matrix(class_to_predict)
 
-
-
         test_data = test_df.as_matrix(columns)
         test_targets = test_df.as_matrix(class_to_predict)
 
