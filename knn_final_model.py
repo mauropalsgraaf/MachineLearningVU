@@ -9,20 +9,14 @@ def columns():
 
 train_df = pd.read_csv('training-set.csv')
 
-train_df, test_df = train_test_split(train_df, test_size = 0.05)
-
 columns = columns()
 class_to_predict = ['Category']
 
 train_data = train_df.as_matrix(columns)
 train_targets = train_df.as_matrix(class_to_predict)
 
-test_data = test_df.as_matrix(columns)
-test_targets  = test_df.as_matrix(class_to_predict)
-
 scaler = StandardScaler().fit(train_data)
 train_data = scaler.transform(train_data)
-test_data = scaler.transform(test_data)
 
 knn = KNeighborsClassifier(n_neighbors=600, weights='distance')
 
