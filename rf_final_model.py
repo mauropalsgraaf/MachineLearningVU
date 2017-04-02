@@ -9,15 +9,15 @@ from sklearn.tree import DecisionTreeClassifier
 ## Read Dataframes
 train_df = pd.read_csv('training-set.csv')
 
-print "loading in df"
 ## Select target and train columns
 target = train_df.iloc[:,:1]
 train = train_df.iloc[:,1:]
 
-print "before training"
+# Instantiate classifier
 rf = RandomForestClassifier(n_estimators=100)
+
+# Train classifier
 rf.fit(train, target.values.ravel())
 
-print "after training"
 def predict(test_data):
     return rf.predict(test_data)

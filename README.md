@@ -17,12 +17,24 @@ Also, it's important that python is executable from your shell. Just type `pytho
 
 ## Datasets
 
-This project requires that there is a `train.csv` file (containing the training set data) in the root of the directory with the exact name.
+To transform the original training-set provided by kaggle, run the following command: `python data_preparation $data_set $output_csv_path`. An example execution for the training-set (which can also be the test-set) can be: `python data_preparation train.csv training-set.csv`.
 
-There is a script added called `data_transformation.py` which can transform the `train.csv` to something useful.
+## Running a model
 
-To transform the `train.csv`, run the following command: `python data_preparation $data_set $output_csv_path`. An example execution for the training-set (which can also be the test-set) can be: `python data_preparation train.csv training-set.csv`
+There are four models implemented for this research. The final models which resulted in the highest accuracy are called: knn_final_model.py, rf_final_model.py, neural_network_final_model.py and naive_bayes_final_model.py.
 
-## How to run Python scrips
+To run one of these, run the following command: `python $name_of_model_file`.
 
-To run python scripts, you can make use of the shell by typing the following command: `python $filename`. To make sure it works, I advice you to make sure you are currently in this repository directory, since file system files are loaded in.
+Running this will result in a print to the console of the accuracy.
+
+## Transforming to kaggle
+
+The two best models (KNN and RandomForest) are submittable to Kaggle. To submit, run the following command in the terminal: `python predict_test_set_with_knn.py` or `python predict_test_set_with_rf.py`. It is required for these scripts that 2 csv files are present locally. 1. is the original test set from kaggle called `test.csv` and 2. is that there is a transformed test set present called `test-set.csv`. In datasets, an explanation is given on how to transform the test set to a transformed test set.
+
+After running the predict_test_set_with_rf, a Category column is added to the output csv that is generated. This script can deal as input in the `map_test_set_to_submissable_form.py` script.
+
+to get the submissable test set, run the following command: `python map_test_set_to_submissable_form.py $inputfile $outputfile`. $inputfile is the csv file you want to transform, $outputfile is the name and location of the output file.
+
+## Results
+
+The results directory contains several txt files which shows how we did parameter tweaking and optimalization. It also has results of many runs of different models.

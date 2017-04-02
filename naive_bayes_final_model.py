@@ -1,11 +1,8 @@
 import numpy as np
 import pandas as pd
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.naive_bayes import BernoulliNB
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-
-def columns():
-    return ['X', 'Y', 'Intersection', 'Night', 'Year', 'Month', 'Day', 'Hour']
 
 # Read transformed training set
 df = pd.read_csv('training-set.csv')
@@ -13,8 +10,11 @@ df = pd.read_csv('training-set.csv')
 # Split in training and test set, where testsize is 5% of the entire set
 train_df, test_df = train_test_split(df, test_size = 0.05)
 
-# Use the columns specified in the columns function
-columns = columns()
+# Attributes used
+all_columns = ['Night', 'Weekend', 'X', 'Y', 'Intersection', 'Year', 'Month', 'Day', 'Hour', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+
+columns = all_columns
+
 class_to_predict = ['Category']
 
 # Transform to matrix for scikit learn
@@ -29,15 +29,13 @@ scaler = StandardScaler().fit(train_data)
 train_data = scaler.transform(train_data)
 test_data = scaler.transform(test_data)
 
-# Initiate the classifier
-knn = KNeighborsClassifier(n_neighbors=600, weights='distance')
+weights = 'distance'
 
-# Train the classifier
-knn.fit(train_data, train_targets.ravel())
+# Initiate BernoulliNB
+bayes = BernoulliNB()
 
-# Get the accuracy of the classifier
-print knn.score(test_data, test_targets.ravel())
+# Train classifier
+bayes.fit(train_data, train_targets.ravel())
 
-def predict(test_data):
-    test_data = scaler.transform(test_data)
-    return knn.predict(test_data)
+# Print the score of the classifier
+print bayes.score(test_data, test_targets.ravel())
