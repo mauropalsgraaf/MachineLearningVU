@@ -1,0 +1,1 @@
+columns: ['Night', 'Weekend', 'X', 'Y', 'Intersection', 'Year', 'Month', 'Day', 'Hour', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']; score: 0.218587699317

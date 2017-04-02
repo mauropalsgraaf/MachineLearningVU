@@ -19,9 +19,11 @@ def is_night(pandas_time):
 
 df = pd.read_csv(sys.argv[1])
 
-df = df[df.Y != 90]
 df['Weekend'] = df.apply(lambda row: 1 if row['DayOfWeek'] == 'Saturday' or row['DayOfWeek'] == 'Sunday' else 0, axis=1)
-df['Category'] = df['Category'].apply(lambda category: category_encoder.transform_category_to_number(category))
+
+if 'Category' in df.columns:
+    df = df[df.Y != 90]
+    df['Category'] = df['Category'].apply(lambda category: category_encoder.transform_category_to_number(category))
 df['PdDistrict'] = df['PdDistrict'].apply(lambda district: pd_district_encoder.transform_district_to_number(district))
 df['Dates'] = df['Dates'].apply (lambda time: pd.to_datetime(time))
 df['Year'] = df.apply (lambda row: row['Dates'].year, axis=1)
